@@ -9,7 +9,7 @@ make
 ```
 
 In order to use put line:
-```
+```xml
 <plugin name="model_cog" filename="libmodel_cog.so"/>
 ```
 in <model> section in your gazebo model sdf file.
