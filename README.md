@@ -2,7 +2,8 @@
 
 To build run:  
 ```
-cd build
+cd gazebo_model_cog_pub
+mkdir build && cd build
 cmake ..
 make
 ```
